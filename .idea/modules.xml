@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../The Learners/.idea/The Learners.iml" filepath="$PROJECT_DIR$/../The Learners/.idea/The Learners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VGTourneyDB/.idea/VGTourneyDB.iml" filepath="$PROJECT_DIR$/../VGTourneyDB/.idea/VGTourneyDB.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Laravel Project/bladeDirect/.idea/bladeDirect.iml" filepath="$USER_HOME$/Desktop/Laravel Project/bladeDirect/.idea/bladeDirect.iml" />
+    </modules>
+  </component>
+</project>
